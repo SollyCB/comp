@@ -1,0 +1,3 @@
+Greatest sum path 67
+Index 12 can be constructed
+Index 10 cannot be constructed

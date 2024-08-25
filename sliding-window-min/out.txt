@@ -1,0 +1,7 @@
+win min 1 : win max 1
+win min 1 : win max 4
+win min 1 : win max 5
+win min 1 : win max 3
+win min 3 : win max 4
+win min 1 : win max 1
+win min 1 : win max 2

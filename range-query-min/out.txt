@@ -1,0 +1,4 @@
+min in range [1..6]: 1
+min in range [2..3]: 4
+min in range [3..3]: 8
+min in range [6..7]: 2

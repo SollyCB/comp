@@ -1,0 +1,3 @@
+Nearest smallest for index 4 (5) is 2
+Nearest smallest for index 2 (4) is 3
+Nearest smallest for index 6 (4) is 3

@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
+#define dynarr vector
 
 using namespace std;
-#define dynarr vector
 
 int main() {
   ios::sync_with_stdio(0);

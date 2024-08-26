@@ -1,0 +1,24 @@
+-------------------------------------
+sum queries with segtree
+
+original array: 5, 8, 6, 3, 2, 7, 2, 6,
+segtree: 0, 39, 22, 17, 13, 9, 9, 8, 5, 8, 6, 3, 2, 7, 2, 6,
+sum in range 2, 7; 26
+
+-------------------------------------
+min queries with segtree
+
+original array: 5, 8, 6, 3, 1, 7, 2, 6,
+segtree: 0, 1, 3, 1, 5, 3, 1, 2, 5, 8, 6, 3, 1, 7, 2, 6,
+min in range 0, 3:3
+
+-------------------------------------
+range updates and value queries with segtree
+
+original array: 3, 3, 1, 1, 1, 5, 2, 2,
+segtree: 0, 2, 1, 1, 3, -2, 4, -3, 3, 0, -2, 0, 0, 4, -3, 0,
+value at index 4, 5, 6: 1, 5, 2
+
+add 1 to range 4, 6
+segtree: 0, 2, 1, 1, 3, -2, 5, -4, 3, 0, -2, 0, 1, 4, -3, -1,
+value at index 4, 5, 6: 2, 6, 3
